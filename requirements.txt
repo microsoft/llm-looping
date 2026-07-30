@@ -1,4 +1,4 @@
-torch==2.9.1
+torch==2.13.0
 lightning==2.6.1
 omegaconf==2.3.0
 pyyaml==6.0.3
